@@ -1,2 +1,3 @@
-# reconhecimento-facial-opencv-lbph
-Implementando reconhecimento facial com opencv e LBPH
+## Reconhecimento facial com Opencv e LBPH
+
+### Diego Hartwig - 2024
